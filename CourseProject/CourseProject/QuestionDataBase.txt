@@ -1,0 +1,19 @@
+2
+Math
+2
+Algebra
+2
+5*5
+25
+3*7
+21
+Geometry
+3
+180 degree
+P
+60 degree 
+p/3
+30 degree
+p/6
+Fizika
+0
